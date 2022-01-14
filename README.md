@@ -16,4 +16,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Calculator Screenshot
 
-![alt text](https://github.com/henriquemalvar/flutter_calculator/blob/master/Screenshot.png?raw=true)
+<p align="center">
+  <img src="https://github.com/henriquemalvar/flutter_calculator/blob/master/screenshots/Screenshot.png" width="350" title="hover text">
+</p>
