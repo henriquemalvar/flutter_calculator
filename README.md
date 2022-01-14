@@ -1,4 +1,4 @@
-# calculator
+# Calculator using Flutter
 My first Flutter project. This project has been created to started my learning process 
 
 ## Getting Started
